@@ -1,0 +1,10 @@
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\bin\Debug\SyncroTiendaQuick.exe.config
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\bin\Debug\SyncroTiendaQuick.exe
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\bin\Debug\SyncroTiendaQuick.pdb
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\bin\Debug\Newtonsoft.Json.dll
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\bin\Debug\Newtonsoft.Json.xml
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\obj\Debug\SyncroTiendaQuick.csproj.CoreCompileInputs.cache
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\obj\Debug\SyncroTiendaQuick.csproj.CopyComplete
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\obj\Debug\SyncroTiendaQuick.exe
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\obj\Debug\SyncroTiendaQuick.pdb
+C:\Users\facundo\Documents\GitHub\SyncroTiendaQuick\obj\Debug\SyncroTiendaQuick.csproj.AssemblyReference.cache
